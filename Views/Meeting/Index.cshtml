@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Toplantı Listesi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model List<ApplyModel>
+
+<div class="container">
+    <div class="row justify-content-center">
+        @if (Model != null && Model.Any())
+        {
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-title bg-primary">
+                        <h1 class="text-center text-white">Toplantı Listesi</h1>
+                    </div>
+                    <div class="card-body">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Ad Soyad</th>
+                                    <th>Email</th>
+                                    <th>Telefon</th>
+                                    <th>Katılım</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.FullName</td>
+                                        <td>@item.Email</td>
+                                        <td>@item.Phone</td>
+                                        <td style="background-color: @(item.Answer ? "green" : "red")">
+                                            <span class="text-white">@(item.Answer ? "Evet" : "Hayır")</span>
+                                        </td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <p class="lead">Henüz başvuru yapılmamış.</p>
+                        <a class="btn btn-primary" href="/Meeting/Apply">Başvuru Yapın</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
