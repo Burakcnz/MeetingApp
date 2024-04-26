@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Software\\YusufBurakSoftware\\BurakProje\\ToplantıKatılımUygulaması\\ToplantıKatılımUygulaması.csproj": {}
+    "E:\\Software\\YusufBurakSoftware\\BurakProje\\MeetingApp\\ToplantıKatılımUygulaması.csproj": {}
   },
   "projects": {
-    "E:\\Software\\YusufBurakSoftware\\BurakProje\\ToplantıKatılımUygulaması\\ToplantıKatılımUygulaması.csproj": {
+    "E:\\Software\\YusufBurakSoftware\\BurakProje\\MeetingApp\\ToplantıKatılımUygulaması.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Software\\YusufBurakSoftware\\BurakProje\\ToplantıKatılımUygulaması\\ToplantıKatılımUygulaması.csproj",
+        "projectUniqueName": "E:\\Software\\YusufBurakSoftware\\BurakProje\\MeetingApp\\ToplantıKatılımUygulaması.csproj",
         "projectName": "ToplantıKatılımUygulaması",
-        "projectPath": "E:\\Software\\YusufBurakSoftware\\BurakProje\\ToplantıKatılımUygulaması\\ToplantıKatılımUygulaması.csproj",
+        "projectPath": "E:\\Software\\YusufBurakSoftware\\BurakProje\\MeetingApp\\ToplantıKatılımUygulaması.csproj",
         "packagesPath": "C:\\Users\\brkcn\\.nuget\\packages\\",
-        "outputPath": "E:\\Software\\YusufBurakSoftware\\BurakProje\\ToplantıKatılımUygulaması\\obj\\",
+        "outputPath": "E:\\Software\\YusufBurakSoftware\\BurakProje\\MeetingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brkcn\\AppData\\Roaming\\NuGet\\NuGet.Config",

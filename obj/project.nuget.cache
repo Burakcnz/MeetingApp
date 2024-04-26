@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXL/9ooPrzwVBdQfRqpE7S0yeceFjlrzM5E8Kp2NeWfMBjMjA48cHovqbiQi1+l15uGOqU2FIanGsfccjm7qzg==",
+  "dgSpecHash": "3qaZNOh9er9JU5SKmCQM0m6skQ5ijPaDwN5M3vMHPTwpZR+o57wAoDQg1o0OsAVEPuF6MnO8++EZpyuvEJ5gQA==",
   "success": true,
-  "projectFilePath": "E:\\Software\\YusufBurakSoftware\\BurakProje\\ToplantıKatılımUygulaması\\ToplantıKatılımUygulaması.csproj",
+  "projectFilePath": "E:\\Software\\YusufBurakSoftware\\BurakProje\\MeetingApp\\ToplantıKatılımUygulaması.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brkcn\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\brkcn\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToplantıKatılımUygulaması")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbc5eead291cb38fba467cf7df3b6673006e28ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a89e397985d4601c4818f08c6f057ea038deb0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToplantıKatılımUygulaması")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToplantıKatılımUygulaması")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
